@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\obj",
+    "\\obj\\Properties",
+    "\\Views",
+    "\\Views\\Shared",
+    "\\Views\\Shared\\Components",
+    "\\Views\\Shared\\Components\\CategoryMenu",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\img"
+  ],
+  "SelectedNode": "\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
